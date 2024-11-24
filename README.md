@@ -44,7 +44,7 @@ Documentation and reports were also provided to support our work and recommendat
 
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/1.%20Complete%20Analysis_LD%20(1).ipynb)
 [SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/Google%20Data%20Analytics%20Capstone_%20LD%20(1).md)
-[R]()
+
 
 ## Prepare
 ### Data Source
@@ -57,8 +57,12 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ## Process
 
-
-### Data Exploration
+Here are the steps that I followed during this phase:
+1. Combined all the tables into one data table
+2.Check for null and duplicates
+3. Cleaned the data
+4. Additional columns and data transformation
+4. Extract data for analysis
 
 ### Data Cleaning
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/2.%20Data%20Cleaning_LD%20(2).ipynb)  
@@ -68,7 +72,18 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 Data Visualization
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/3.%20Data%20Visualization_LD%20(2).ipynb)  
-[SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/Google%20Data%20Analytics%20Capstone_%20LD%20(1).md)
+[SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/dashboard%2C%20a%CC%80s%2022.04.55.pdf)
+
+### Analysis Results
+**How do annual members and casual cyclists use Cyclistic bikes differently?**
+-The analysis indicates that annual members have more stable usage patterns, suggesting regular commutes, while casual cyclists show more pronounced variations, indicating more flexible and recreational use. Preferences for initial stations and distinct destinations suggest distinct needs.
+
+**Why would casual cyclists purchase annual memberships from Cyclistic?**
+-Strategies to attract casual cyclists to annual subscriptions include offering exclusive benefits, significant discounts for longer periods, and seasonal promotions to encourage conversion.
+
+**How can Cyclistic use digital media to influence casual cyclists to become members?**
+-Digital campaigns highlighting exclusive benefits, persuasive content shared on social media, and exclusive offers, such as free trial periods, can be effective in attracting casual cyclists.
+
 
 
 ## Act
