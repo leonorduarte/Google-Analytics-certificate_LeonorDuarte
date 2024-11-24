@@ -33,9 +33,9 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, w
 
 Approach
 To achieve our marketing goal of converting casual members, and ultimately profit, we asked three questions:
--HOW annual members and casual riders differ?
--WHY would casual riders buy a membership?
--HOW can digital media affect marketing tactics?
+- HOW annual members and casual riders differ?
+- WHY would casual riders buy a membership?
+- HOW can digital media affect marketing tactics?
 
 With these three questions, we set the stage going by the data analysis process roadmap (Ask, Prepare, Process, Analyse, Share, and Act). we used spreadsheets, SQL, Tableau, and R to address the cleaning, analysis and visual requirement at each phase of the project.
 Documentation and reports were also provided to support our work and recommendations.
