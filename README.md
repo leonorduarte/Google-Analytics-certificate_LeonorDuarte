@@ -43,7 +43,7 @@ Documentation and reports were also provided to support our work and recommendat
 **Note:  Although it was advised to use only SQL, RStudio and Tableau, I decided to do also in Python for my own practice.**
 
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/1.%20Complete%20Analysis_LD%20(1).ipynb)
-[SQL]()
+[SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/Google%20Data%20Analytics%20Capstone_%20LD%20(1).md)
 [R]()
 
 ## Prepare
@@ -62,13 +62,13 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ### Data Cleaning
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/2.%20Data%20Cleaning_LD%20(2).ipynb)  
-
+[SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/Google%20Data%20Analytics%20Capstone_%20LD%20(1).md)
   
 ## Analyse and Share
 
 Data Visualization
 [Python](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/3.%20Data%20Visualization_LD%20(2).ipynb)  
-
+[SQL](https://github.com/leonorduarte/Google-Analytics-certificate_LeonorDuarte/blob/main/Google%20Data%20Analytics%20Capstone_%20LD%20(1).md)
 
 
 ## Act
